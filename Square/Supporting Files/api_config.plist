@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BaseUrl</key>
+	<string>https://foursquare.com</string>
+	<key>AuthorizationURI</key>
+	<string>oauth2/authenticate</string>
+	<key>ClientID</key>
+	<string>3SXOOPBS0RYQVBQBJNHX0J3PU3C3NP4MJWQYH401COFQD4HU</string>
+	<key>ClientSecret</key>
+	<string>ZKGTYBIVRT5EUH4HO5QX4P5FHBLLSOBSJXWQZQ50BH1GLIQV</string>
+	<key>RedirectURL</key>
+	<string>square://foursquare</string>
+	<key>GetAccessTokenURI</key>
+	<string>oauth2/access_token</string>
+	<key>APIVersion</key>
+	<string>20161108</string>
+	<key>AccessTokenGrantTypeParam</key>
+	<string>grant_type</string>
+	<key>AccessTokenRedirectURIParam</key>
+	<string>redirect_uri</string>
+	<key>AccessTokenCodeParam</key>
+	<string>code</string>
+	<key>GetUserInfo</key>
+	<string>users/self</string>
+	<key>GetVenuesURI</key>
+	<string>venues/search</string>
+	<key>VenuesLLParam</key>
+	<string>ll</string>
+	<key>CheckInURI</key>
+	<string>checkins/add</string>
+	<key>CheckInVenueIDParam</key>
+	<string>venueId</string>
+</dict>
+</plist>

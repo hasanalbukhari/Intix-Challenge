@@ -1,0 +1,47 @@
+/* 
+  Base.strings
+  Kader
+
+  Created by Devloper on 8/19/15.
+  Copyright © 2015 Devloper. All rights reserved.
+*/
+
+"Foursquare" = "FOURSQUARE";
+
+"Language" = "English";
+
+"English" = "English";
+
+"Arabic" = "عربي";
+
+"AppName" = "Square";
+
+"Login" = "Connecting to Foursquare";
+
+"Cancel" = "Cancel";
+
+"ValidationError" = "Validation Error";
+
+"ServerUnreachable" = "Internet Connection Problem!";
+
+"WeWillGetBackToYou" = "We will get back to you ...";
+
+"Fail" = "Something Wrong Happen";
+
+"LoginFailed" = "Login Failed";
+
+"TryAgain" = "Try again!";
+
+"FailTryAgain" = "Something Wrong Happen! Try again.";
+
+"Back" = "Back";
+
+"Waiting" = "Waiting ...";
+
+"NoMore" = "No more to show!";
+
+"OK" = "Ok";
+
+"Me" = "Me";
+
+"NearBy" = "Near by";
